@@ -1,0 +1,118 @@
+abstract
+abstract, clip art
+abstract, graffiti
+abstract, line draw
+abstract, net
+abstract, non photo
+abstract, rectangle
+abstract, shape
+abstract, texture
+animal
+animal, bird
+animal, cat
+animal, dog
+animal, fish
+animal, horse
+animal, panda
+building
+building, arch
+building, brickwall
+building, church
+building, corner
+building, door windows
+building, house
+building, pillar
+building, skyscraper
+building, stair
+dark
+dark, fire
+dark, fireworks
+dark, light
+food
+food, bread
+food, fastfood
+food, fries
+food, grilled
+food, pizza
+indoor
+indoor, bathroom
+indoor, buffet
+indoor, cabinet
+indoor, church
+indoor, church window
+indoor, court
+indoor, door windows
+indoor, gallery
+indoor, kitchen
+indoor, library
+indoor, mall
+indoor, market store
+indoor, meeting
+indoor, restaurant
+indoor, room
+indoor, screen
+object
+object, bag
+object, bookshelf
+object, bracelet
+object, camera
+object, cellphone
+object, clock
+object, cup
+object, drink
+object, drink can
+object, lamp
+object, sculpture
+object, sculpture bronze
+object, seat
+object, shoes
+object, steering wheel
+object, vase
+object, watch
+object, wheel
+others
+outdoor
+outdoor, city
+outdoor, field
+outdoor, grass
+outdoor, mountain
+outdoor, ocean beach
+outdoor, playground
+outdoor, pool
+outdoor, railway
+outdoor, road
+outdoor, sportsfield
+outdoor, stone rock
+outdoor, street
+outdoor, water flowing
+outdoor, waterside
+people
+people, baby
+people, crowd
+people, dance
+people, group
+people, hand
+people, many people
+people, portrait
+people, show
+people, swimming
+people, tattoo
+plant
+plant, branch
+plant, flower
+plant, leaves
+plant, thin branch
+plant, tree
+sky
+sky, balloons
+sky, object
+sky, sun
+text
+text, map
+text, sign
+text, whiteboard
+transportation
+transportation, bicycle
+transportation, bus
+transportation, car
+transportation, motorcycle
